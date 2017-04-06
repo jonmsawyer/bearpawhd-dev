@@ -1,1 +1,4 @@
 *.pyc
+/db.sqlite3
+/collected_static
+/uploaded_media

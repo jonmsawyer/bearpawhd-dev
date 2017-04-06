@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rexpfd>
+    <destination path="laptox.sif.dev.jonmsawyer.com:/home/thales/sites/bearpawhd-dev.jonmsawyer.com"/>
+    <options createDirectoryStructure="false" createSelectedOnly="true" descriptionFilePath="/bearpawhd-dev/.settings/bearpawhd-dev-export.rexpfd" overWriteExistingFiles="true" reviewSynchronize="true" saveSettings="true"/>
+    <selectedElements>
+        <project name="bearpawhd-dev"/>
+    </selectedElements>
+</rexpfd>
