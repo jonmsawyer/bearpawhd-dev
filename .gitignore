@@ -1,6 +1,8 @@
 *.pyc
-/db.sqlite3
+/db/db.sqlite3
 /collected_static
 /uploaded_media
 /conf/nginx.conf
 /conf/uwsgi.ini
+/logs/nginx_access.log
+/logs/nginx_error.log
